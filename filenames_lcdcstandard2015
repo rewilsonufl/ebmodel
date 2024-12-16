@@ -1,0 +1,65 @@
+
+Juan: These files are on subdirectory    '~rewilson/lcdcatm/lcdcstandard2015/'.
+Please copy all the files to a subdirectory where they can be downloaded via
+FTP -- except ignore subdirectory 'debug_files/'. The new subdirectory could have
+a name like 'astro/wilson/lcdc2015/', or whatever similar name fits in with 
+department style.
+                                   Thanks,
+                                       Bob
+
+drwx--x--x. 2 rewilson rewilson     1024 Nov 21 15:15 debug_files/
+-rw-------. 1 rewilson rewilson     1776 May 31  2019 updates
+-rw-------. 1 rewilson rewilson   345501 May 31  2019 lc31may2019flop.f
+-rw-------. 1 rewilson rewilson   457465 May 31  2019 dc22may2015flop.f
+-rw-------. 1 rewilson rewilson    85070 Jul  7  2016 atmcofplanck.dat
+-rw-------. 1 rewilson rewilson 37318764 Jul  7  2016 atmcof.dat
+-rw-------. 1 rewilson rewilson     4324 Jul  7  2016 effwvl.dat
+-rw-------. 1 rewilson rewilson      789 Jul  7  2016 limcof_bp_preamble_p05.dat
+-rw-------. 1 rewilson rewilson      765 Jul  7  2016 limcof_bp_preamble_p10.dat
+-rw-------. 1 rewilson rewilson      813 Jul  7  2016 limcof_bp_preamble_p01.dat
+-rw-------. 1 rewilson rewilson      813 Jul  7  2016 limcof_bp_preamble_p02.dat
+-rw-------. 1 rewilson rewilson      813 Jul  7  2016 limcof_bp_preamble_p03.dat
+-rw-------. 1 rewilson rewilson      993 Jul  7  2016 limcof_bp_preamble_p00.dat
+-rw-------. 1 rewilson rewilson      813 Jul  7  2016 limcof_bp_preamble_m40.dat
+-rw-------. 1 rewilson rewilson      813 Jul  7  2016 limcof_bp_preamble_m45.dat
+-rw-------. 1 rewilson rewilson      813 Jul  7  2016 limcof_bp_preamble_m50.dat
+-rw-------. 1 rewilson rewilson      813 Jul  7  2016 limcof_bp_preamble_m35.dat
+-rw-------. 1 rewilson rewilson      813 Jul  7  2016 limcof_bp_preamble_m30.dat
+-rw-------. 1 rewilson rewilson      813 Jul  7  2016 limcof_bp_preamble_m25.dat
+-rw-------. 1 rewilson rewilson      813 Jul  7  2016 limcof_bp_preamble_m20.dat
+-rw-------. 1 rewilson rewilson      813 Jul  7  2016 limcof_bp_preamble_m10.dat
+-rw-------. 1 rewilson rewilson      813 Jul  7  2016 limcof_bp_preamble_m15.dat
+-rw-------. 1 rewilson rewilson      813 Jul  7  2016 limcof_bp_preamble_m05.dat
+-rw-------. 1 rewilson rewilson      813 Jul  7  2016 limcof_bp_preamble_m03.dat
+-rw-------. 1 rewilson rewilson      813 Jul  7  2016 limcof_bp_preamble_m02.dat
+-rw-------. 1 rewilson rewilson      813 Jul  7  2016 limcof_bp_preamble_m01.dat
+-rw-------. 1 rewilson rewilson  3298625 Jul  7  2016 limcof_bp_p10.dat
+-rw-------. 1 rewilson rewilson  3474564 Jul  7  2016 limcof_bp_p05.dat
+-rw-------. 1 rewilson rewilson  3553735 Jul  7  2016 limcof_bp_p03.dat
+-rw-------. 1 rewilson rewilson  3580125 Jul  7  2016 limcof_bp_p02.dat
+-rw-------. 1 rewilson rewilson  3615313 Jul  7  2016 limcof_bp_p01.dat
+-rw-------. 1 rewilson rewilson  4187119 Jul  7  2016 limcof_bp_p00.dat
+-rw-------. 1 rewilson rewilson  3395412 Jul  7  2016 limcof_bp_m50.dat
+-rw-------. 1 rewilson rewilson  3448188 Jul  7  2016 limcof_bp_m45.dat
+-rw-------. 1 rewilson rewilson  3465780 Jul  7  2016 limcof_bp_m40.dat
+-rw-------. 1 rewilson rewilson  3492168 Jul  7  2016 limcof_bp_m35.dat
+-rw-------. 1 rewilson rewilson  3544945 Jul  7  2016 limcof_bp_m30.dat
+-rw-------. 1 rewilson rewilson  3527352 Jul  7  2016 limcof_bp_m25.dat
+-rw-------. 1 rewilson rewilson  3527347 Jul  7  2016 limcof_bp_m20.dat
+-rw-------. 1 rewilson rewilson  3571332 Jul  7  2016 limcof_bp_m15.dat
+-rw-------. 1 rewilson rewilson  3597720 Jul  7  2016 limcof_bp_m10.dat
+-rw-------. 1 rewilson rewilson  3606516 Jul  7  2016 limcof_bp_m05.dat
+-rw-------. 1 rewilson rewilson  3606516 Jul  7  2016 limcof_bp_m03.dat
+-rw-------. 1 rewilson rewilson  3606516 Jul  7  2016 limcof_bp_m02.dat
+-rw-------. 1 rewilson rewilson  3606516 Jul  7  2016 limcof_bp_m01.dat
+-rw-------. 1 rewilson rewilson   544813 Jun  8  2016 ebdoc.6jun2016.pdf
+-rw-------. 1 rewilson rewilson   723506 Jun  8  2016 ebdoc.6jun2016.ps
+-rw-------. 1 rewilson rewilson     8206 Apr  1  2016 lcin.examples
+-rw-------. 1 rewilson rewilson     2658 Oct  2  2015 bandext.6june2013.f
+-rw-------. 1 rewilson rewilson    48668 Jul 14  2015 readme.8july2015.pdf
+-rw-------. 1 rewilson rewilson   114588 Jul 14  2015 readme.8july2015.ps
+-rw-------. 1 rewilson rewilson  4289902 Jun 27  2015 dcout.example
+-rw-------. 1 rewilson rewilson    81356 Jun 27  2015 dcin.example
+-rw-------. 1 rewilson rewilson   343077 Jun 26  2015 lcout.mpage5.26june2015.ps
+-rw-------. 1 rewilson rewilson   757163 Jun 26  2015 lcout.examples
+-rwx--x---. 1 rewilson rewilson   167335 Feb 18  2015 critout.tab*

@@ -1,0 +1,29 @@
+April 1, 2016: Gary Steffens and Andy Odell caught a mistake in the 'lcin.examples'
+file, where the last input block had L1 as exactly zero, which leads to failure.
+L1 is now set to 1.0000000 there. 
+
+June 8, 2016: A revision of the 'ebdoc' manual (ebdoc.6jun2016.ps; also ebdoc.6jun2016.pdf)
+replaces the previous version. It adds photometric band 94 to Table 2 and explains
+the KSD weighting scheme more fully.
+ 
+July 8, 2016: All files with 'dat' extension were replaced with new versions that
+accomodate the response function and effective wavelength of band 94. The filenames
+are the same as before.
+
+June 19, 2017: A units conversion factor that belongs in two lines
+of subroutine LUMP was inadverdently omitted from one of the lines. The error would
+affect reflection effect computations if limb darkenings were computed locally but 
+not with fixed limb darkenings. The mistake has been corrected.
+
+February 22, 2017: Although the bug of June 19, 2017 (see just above) was corrected
+in the LC and DC program files (lc14june2015flop.f and dc22may2015flop.f), somehow  
+an old version of dc22may2015flop.f remained on the download site until today. 
+File dc22may2015flop.f is now properly corrected. The LC file, lc14june2015flop.f,
+has been OK since June 19, 2017. Thanks go to Serguei Leontiev for noticing this bug.
+
+May 31, 2019: Orkun Ozdarcan noticed that light curves written from LC and DC
+differed at some phases by about one part in 500 for an analyzed EB. 
+This problem turned out to be due to a bug in the LC main program that
+has now been fixed. It would not have affected solution results, as there 
+was no corresponding bug in the DC program, and the effect on published light
+curve graphs was not significant at the typical resolution of journal figures.
